@@ -2,6 +2,6 @@
 
 1.19ぐらいまであったF3 + F, F3 + Shift + Fの描画距離変更デバッグキーを利用可能にします。
 
-Version: Minecraft Fabric 1.21.11
+Version: Minecraft Fabric 1.21.11 ~ 26.1.2
 
 前提MODはありません。[リリース](https://github.com/shiro8613/BackDebugKey/releases)からダウンロードしてmodsフォルダへ入れてください。
